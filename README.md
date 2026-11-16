@@ -5,7 +5,6 @@
 [![Oracle Next Education](https://img.shields.io/badge/Formação-Oracle_Next_Education_(ONE)-f80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/education/oracle-next-education/)
 [![Alura](https://img.shields.io/badge/Parceria-Alura_Latam-0070f3?style=for-the-badge&logo=alura&logoColor=white)](https://www.alura.com.br/)
 [![Streamlit Profile](https://img.shields.io/badge/Streamlit-Meus_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/denilson-silva-de-almeida)
-[![GitHub](https://img.shields.io/badge/GitHub-Denilson--Silva--de--Almeida-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denilson-Silva-de-Almeida)
 
 **Estudante e entusiasta de Tecnologia, Dados e Inteligência Artificial, focado em aprendizado contínuo e desenvolvimento de soluções práticas.**
 
